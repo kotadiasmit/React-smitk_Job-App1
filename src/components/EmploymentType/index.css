@@ -1,0 +1,12 @@
+.employment-type-label {
+  color: white;
+  margin-left: 10px;
+}
+.employment-type-list {
+  margin-bottom: 8px;
+  cursor: pointer;
+  list-style-type: none;
+}
+.employment-type-label {
+  cursor: pointer;
+}

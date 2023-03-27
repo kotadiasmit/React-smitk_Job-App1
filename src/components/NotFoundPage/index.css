@@ -1,0 +1,13 @@
+.not-found-page-container {
+  background-color: black;
+  display: flex;
+  padding: 9%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.not-found-page-img {
+  width: 40%;
+  height: 50%;
+}
